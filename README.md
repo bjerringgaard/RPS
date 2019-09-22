@@ -1,2 +1,2 @@
 # SSPgame
-Stone, Scissor, Rock game in PHP
+Rock, Paper, Scissor game in PHP
